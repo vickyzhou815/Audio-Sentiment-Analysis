@@ -1,1 +1,10 @@
 
+The audio files in this dataset are named in a way that the prefix letters describes the emotion classes as follows:
+
+'a' = 'anger'
+'d' = 'disgust'
+'f' = 'fear'
+'h' = 'happiness'
+'n' = 'neutral'
+'sa' = 'sadness'
+'su' = 'surprise'
